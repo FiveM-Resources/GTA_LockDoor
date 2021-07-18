@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main-container {
+    display: none;
+    padding-top: 10px;
+    width: 38%;
+    height: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30vh;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.title {
+    margin-left: 2%;
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+input {
+    margin-left: 2%;
+    width: 95%;
+    height: 25px;
+    font-size: 20px;
+    color: white;
+    background: transparent;
+}
