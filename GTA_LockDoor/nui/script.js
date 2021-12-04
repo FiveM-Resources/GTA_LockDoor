@@ -3,7 +3,22 @@ function display(bool) {
 }
 
 window.addEventListener('message', function(event) {
-    (event.data.active ? display(true) : display(false));
+
+    function onDisplay()
+    {
+        document.querySelector('.main-container').style.display = "flex";
+        document.getElementById('password').focus();
+        display(true);
+    }
+
+
+    function onRemove()
+    {
+        document.querySelector('.main-container').style.display = "none";
+        display(false);
+    }
+
+    (event.data.active ?  onDisplay() : onRemove());
 })
 
 $(document).on('keydown', function() {

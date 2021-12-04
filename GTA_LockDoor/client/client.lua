@@ -62,7 +62,7 @@ Citizen.CreateThread(function()
 			end
 
 			if distance < maxDistance then
-				local Duree = 175
+				local Duree = 125
 
 				ApplyDoorState(doorID)
 

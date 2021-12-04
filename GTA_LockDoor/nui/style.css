@@ -6,16 +6,20 @@
 
 .main-container {
     display: none;
+    flex-direction: column;
+    align-content: center;
     padding-top: 10px;
     width: 38%;
     height: 7%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 30vh;
+    margin: 10% auto;
     background-color: rgba(0, 0, 0, 0.7);
 }
 
 .title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
     margin-left: 2%;
     color: white;
     font-family: sans-serif;
@@ -23,6 +27,9 @@
 }
 
 input {
+    display: flex;
+    flex-direction: column;
+
     margin-left: 2%;
     width: 95%;
     height: 25px;
