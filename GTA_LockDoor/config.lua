@@ -14,7 +14,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = false,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	{
@@ -25,7 +25,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = false,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	-- To locker room & roof
@@ -37,7 +37,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	-- Rooftop
@@ -49,7 +49,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	-- Hallway to roof
@@ -61,7 +61,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	-- Armory
@@ -73,7 +73,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	-- Captain Office
@@ -85,7 +85,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	-- To downstairs (double doors)
@@ -97,7 +97,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	{
@@ -108,7 +108,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	-- 
@@ -172,7 +172,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 1.5
+		distance = 3.0
 	},
 
 	--
@@ -188,7 +188,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 1.5
+		distance = 5.5
 	},
 
 	{
@@ -199,7 +199,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 1.5
+		distance = 5.5
 	},
 
 	-- Back Gate
@@ -211,7 +211,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 1.5
+		distance = 5.5
 	},
 
 	--
@@ -227,7 +227,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = false,
 		permission = false,
-		distance = 1.5
+		distance = 5.5
 	},
 
 	--
@@ -243,7 +243,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = false,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	{
@@ -254,7 +254,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = false,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	--
@@ -270,7 +270,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	{
@@ -281,7 +281,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
 		doorLock = true,
 		permission = false,
-		distance = 2.0
+		distance = 5.0
 	},
 
 	{
@@ -292,7 +292,7 @@ Config.DoorList = {
 		codeAdmin = 0102,
         doorLock = true,
         permission = false,
-        distance = 2.5
+        distance = 5.5
     },
 
     {
@@ -303,6 +303,6 @@ Config.DoorList = {
 		codeAdmin = 0102,
         doorLock = true,
         permission = false,
-		distance = 2.5
+		distance = 5.5
 	}
 }
