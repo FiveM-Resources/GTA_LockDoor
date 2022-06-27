@@ -14,7 +14,7 @@ local function OpenDoorsWithPerms()
 	for i=1, #Config.DoorList do
 		local doorID   = Config.DoorList[i]
 		local distance = getDistance(playerCoords, doorID.objCoords)
-		local maxDistance = 5.0
+		local maxDistance = 1.0
 		
 		if doorID.distance then
 			maxDistance = doorID.distance
